@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel Mendes Costa, I'm 17 years old, I'm from Brazil
+- 👋 Hi, I’m Gabriel Mendes Costa, I'm 19 years old, I'm from Brazil
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on an startup
